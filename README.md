@@ -1,3 +1,3 @@
 # Machine-Learning
 
-This is my Machine Learning Repository
+This is my Machine Learning Repository.
